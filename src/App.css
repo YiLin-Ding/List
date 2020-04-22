@@ -1,0 +1,20 @@
+@import '~antd/dist/antd.css';
+
+.listItem{
+  position: relative;
+}
+.btn{
+  width:50%;
+  position: absolute;
+  left:300px;
+  top:8px;
+}
+.input-btn{
+  float: left;
+  width: 30%;
+  margin-left: 40px;
+  margin-top:20px;
+}
+.change{
+  margin-left: 80px;
+}
